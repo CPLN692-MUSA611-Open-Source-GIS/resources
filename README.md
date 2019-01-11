@@ -1,24 +1,20 @@
-# Javascript and HTML Programming for Planning and Urban Management Applications
+# Introduction to Web Mapping - Spring 2020
 
 # Syllabus
 
-* **Course:** CPLN-692-401, University of Pennsylvania
-* **Location:** Meyerson Hall B13
+* **Course:**   CPLN-692/MUSA-611, University of Pennsylvania
+* **Location:** The Internet
 * **Schedule:** 2-5PM, Fridays
 * **Instructor:**
     * Nathan Zimmerman, [npzimmerman@gmail.com](mailto:npzimmerman@gmail.com)
-    * Ross Bernet, [ross.bernet@gmail.com](mailto:ross.bernet@gmail.com)
-* **Teaching Assistant:** 
-    * Huiling (Ling) He, [huilingh@design.upenn.edu](huilingh@design.upenn.edu)
+* **TA:**
+    * Huidi Hu (Sophia), [huidihu@design.upenn.edu](mailto:huidihu@design.upenn.edu)
 * **Office Hours:**
-    * Nathan Zimmerman: 12-1 Fridays @ The Graduate Student Center
-    * Ross Bernet: TBD
-    * Ling He: TBD
+    * Nathan Zimmerman: Friday 12:00PM-1:30PM @the GSC (and special request as necessary)
+    * Sophia: TBD (and special request as necessary)
 * **Need help?**
-    * [![Gitter](https://badges.gitter.im/CPLN-692-401/syllabus.svg)](https://gitter.im/https://gitter.im/CPLN-MUSA-Spring-2019/community)
+    * [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/MUSA611-CPLN692-spring2020/community#)
     * Internet Search ([stack overflow](https://stackoverflow.com/) is your friend!)
-
-
 * [Map-based Web Application Examples](./webmap-examples.md)
 * [Data Sources](./datasources.md)
 
@@ -51,7 +47,7 @@ industry.
 We'd like to keep the course somewhat freeform — there are basic skills
 which must be touched on, but your interests will help shape the direction
 to a large extent. There will be a self-directed final assignment that can
-take on any topic you find interesting (so long as you use some tools from
+take on about any topic you find interesting (so long as you use tools from
 our class).
 
 This syllabus is a living document. As the course progresses, greater detail
@@ -65,10 +61,10 @@ will be added to reflect the content of each week.
 | A-    | 90-92  | B-    | 80–82 | C-    | 70–72 |
 
 * Assessment Method / Grading Criteria:
-    * Participation, attendance, and homework: 50%
-    * Midterm Project: 15%
+    * Participation and attendance: 20%
+    * Midterm Project: 30%
     * Final Project Proposal: 5%
-    * Final Project:  30%
+    * Final Project:  45%
 
 ### Weekly repositories
 Each week will have a different repository with the seed for that week's
@@ -80,8 +76,8 @@ week's class.
 ### Midterm project
 We will provide a menu of appropriate features for an application to be
 programmed midway through the course (in a lab and at home with a
-completely open book). This assignment will stress the basics of open-source,
-online mapping applications.
+completely open book). This assignment will focus on the basics of
+open-source, online mapping applications.
 
 ### Final project
 The final assignment for the class will be decided through a project
@@ -93,35 +89,45 @@ will also leverage the power of github to make collaboration simpler and
 more transparent for grading purposes (this will make more sense once
 you're familiar with github).
 
+Because of the isolation we're all feeling from COVID, group projects
+are especially welcome.
+
 ### Course Schedule
+> Subject to change as necessary!
+> Doubly subject to change because of COVID!
 
 #### Week 1 - Getting started
-* Introductions
-* Using Git and Github
-* Visual Studio Code Text Editor
-* First steps with Javascript
-* Our first online map
+* Introductions and university boilerplate
+* Using Git and Github (using the git CLI - we will revisit this almost every class)
+* VSCode editing
+* First steps with Javascript (playing in the console)
+* Editing your first online map
 
 #### Week 2 - Writing code
-* Review and lab: basic javascript
+* JS Review:
     * Data types
     * Variables
-    * Arrays
-    * Loops
     * Conditions
-    * Functions
+    * Functions (a topic we will continually return to)
 * Libraries and imports
 
 #### Week 3 - Working with data
-* Review and lab: underscore
+* Review:
+    * Arrays
+    * Writing loops
+    * Iterators (this is an extension to our prior work with functions)
+    * Objects
+* Lab:
+    * Function anatomy and thinking functionally
+    * Underscore functions
+    * Refactoring code
 
 #### Week 4 - jQuery
-* Github review
 * Introduction to jQuery
+* Async behaviors
 
 #### Week 5 - HTML & CSS
-
-* Review and lab: HTML
+* HTML structure
 * jQuery selectors
 
 #### Week 6 - Advanced leaflet cartography
@@ -130,7 +136,7 @@ you're familiar with github).
 * Where to find spatial data
 
 #### Week 7 - Midterm lab
-* In class work on midterm project
+* In class (collaborative!) work on midterm project
 
 #### Week 8 - Midterm presentation & discussion
 * Midterm presentations
@@ -139,7 +145,7 @@ you're familiar with github).
 
 #### Weeks 9-15 - Possible directions
 * Turf
-* CartoDB + spatial SQL
+* Spatial SQL
 * Mapbox
 * Leaflet Draw
 * D3/Chart.js
@@ -149,17 +155,19 @@ you're familiar with github).
 * Advanced debugging
 * Vector tiles
 * node.js (writing javascript for the server)
+* Google Earth Engine
 
 ### Academic Integrity
-In compliance (and agreement) with Penn's
+In compliance with Penn's
 [Code of Academic Integrity](http://www.upenn.edu/academicintegrity/ai_codeofacademicintegrity.html),
 blatantly and egregiously copying another student's work will
 not be tolerated. However, because this course is designed to
-help prepare students for working in a professional programming
+help prepare students for work in professional programming
 environments, *copying and pasting is not universally prohibited*:
 we encourage students to work together and to freely use the
-internet as a resource for finding code. Citing every copied and
-pasted line of code is *not* necessary. Large patterns or multiple
-lines of code taken from external sources *should*, however, be
-noted with in-code comments. If an instance is unclear, you should
+internet as a resource for finding solutions to vexing problems. Citing
+every copied and pasted line of code is *not* necessary. Large patterns
+or multiple lines of code taken from external sources *should*, however,
+be noted with in-code comments. If an instance is unclear, you should
 feel free to speak with the instructors.
+
