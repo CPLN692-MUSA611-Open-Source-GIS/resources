@@ -10,7 +10,7 @@
 * **TA:**
     * Huidi Hu (Sophia), [huidihu@design.upenn.edu](mailto:huidihu@design.upenn.edu)
 * **Office Hours:**
-    * Nathan Zimmerman: Friday 12:00PM-1:30PM @the GSC (and special request as necessary)
+    * Nathan Zimmerman: Friday 9:00AM-10:00AM online (and special request as necessary)
     * Sophia: TBD (and special request as necessary)
 * **Need help?**
     * [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/MUSA611-CPLN692-spring2020/community#)
