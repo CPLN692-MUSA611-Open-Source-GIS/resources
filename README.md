@@ -20,6 +20,7 @@
 
 ## Software
 * [Visual Studio Code](https://code.visualstudio.com/)
+* [GitHub's Atom Editor](https://atom.io/) (VSCode alternative)
 * [GitHub Desktop](https://desktop.github.com/)
 
 ## Supplementary resources
