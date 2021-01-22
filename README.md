@@ -11,8 +11,8 @@
     * Huidi Hu (Sophia), [huidihu@design.upenn.edu](mailto:huidihu@design.upenn.edu)
 * **Office Hours:**
     * Nathan Zimmerman: Friday 9:00AM-10:00AM online (and special request as necessary)
-    * Sophia: TBD (and special request as necessary)
-* **Need help?**
+    * Sophia: Wednesday 6:00PM-7:00PM online (and special request as necessary)
+    * **Need help?**
     * [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/MUSA611-CPLN692-spring2020/community#)
     * Internet Search ([stack overflow](https://stackoverflow.com/) is your friend!)
 * [Map-based Web Application Examples](./webmap-examples.md)
