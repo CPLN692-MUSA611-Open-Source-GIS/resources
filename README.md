@@ -110,6 +110,9 @@ are especially welcome.
     * Variables
     * Conditions
     * Functions (a topic we will continually return to)
+* Continued discussion of tools
+    * Editors
+    * Version control (git+github)
 * Libraries and imports
 
 #### Week 3 - Working with data
