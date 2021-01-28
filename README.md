@@ -108,7 +108,7 @@ are especially welcome.
 * JS Review:
     * Data types
     * Variables
-    * Conditions
+    * Conditions and Conditionals
     * Functions (a topic we will continually return to)
 * Continued discussion of tools
     * Editors
