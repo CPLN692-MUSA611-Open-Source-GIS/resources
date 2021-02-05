@@ -10,7 +10,7 @@
 * **TA:**
     * Huidi Hu (Sophia), [huidihu@design.upenn.edu](mailto:huidihu@design.upenn.edu)
 * **Office Hours:**
-    * Nathan Zimmerman: Friday 9:00AM-10:00AM online (and special request as necessary)
+    * Nathan Zimmerman: Friday 9:00AM-10:00AM + Monday 6:00PM-7:00PM online (and special request as necessary)
     * Sophia: Wednesday 6:00PM-7:00PM online (and special request as necessary)
     * **Need help?**
     * [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/CPLN692-MUSA611-Open-Source-GIS/community)
